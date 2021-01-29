@@ -1,4 +1,4 @@
-# what_OS-1.0
+
 #!/usr/bin/python3
 
 from os import name, truncate
