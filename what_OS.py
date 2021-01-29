@@ -7,9 +7,8 @@ import re, sys, subprocess
 
 
 if len(sys.argv) !=2:
+    
     print("\n[i] Uso: python3 " + "sys.argv[0]"+ " < ip_adress>\n" )
-    print(" Ejemplo ||\ ")
-    print("         ||-> python3 what_OS 10.10.10. ")
     sys.exit(1)
     
     
